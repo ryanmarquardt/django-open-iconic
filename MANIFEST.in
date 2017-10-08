@@ -1,0 +1,3 @@
+include FONT-LICENSE
+include ICON-LICENSE
+recursive-include open_iconic/static *
