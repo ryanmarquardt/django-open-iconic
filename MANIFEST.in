@@ -1,3 +1,3 @@
-include FONT-LICENSE
-include ICON-LICENSE
-recursive-include open_iconic/static *
+include open_iconic/static/open_iconic/FONT-LICENSE
+include open_iconic/static/open_iconic/ICON-LICENSE
+recursive-include open_iconic/static *.css *.eot *.otf open-iconic.svg *.ttf *.woff

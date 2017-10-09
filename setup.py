@@ -5,7 +5,7 @@ from os import chdir
 from os.path import join, dirname, normpath, abspath
 from setuptools import find_packages, setup
 
-with open(join(dirname(__file__), 'README.md')) as readme:
+with open(join(dirname(__file__), 'README.rst')) as readme:
     README = readme.read()
 
 # allow setup.py to be run from any path
