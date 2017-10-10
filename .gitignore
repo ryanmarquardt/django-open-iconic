@@ -1,2 +1,4 @@
+*.pyc
 dist/*
 django_open_iconic.egg-info/*
+__pycache__/*
